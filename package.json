@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://engingokmen.com/",
   "dependencies": {
     "lodash": "^4.17.15",
     "react": "^16.8.6",
