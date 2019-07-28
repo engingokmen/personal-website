@@ -7,6 +7,7 @@ import buttonTexts from './button-texts.js'
 
 
 const StyledLink = styled(Link)`
+  text-align:center;
   color:#454545;
   text-decoration: none;
   font-size: 2em;
@@ -16,6 +17,7 @@ const StyledLink = styled(Link)`
 `;
 
 const CenterContent = styled.div`
+  padding:10px;
   height:100vh;
   display: flex;
   justify-content: center;
