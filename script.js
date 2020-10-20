@@ -6,7 +6,7 @@ function drop () {
   }
   const button = document.createElement("button");
   button.onclick=changeBackgroundColor
-  button.textContent="random circles";
+  button.textContent="change background color";
   document.querySelector("#eg").append(button);
 }
 
